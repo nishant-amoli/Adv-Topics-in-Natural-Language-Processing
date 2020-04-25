@@ -1,0 +1,13 @@
+<....><....>
+<..>This is a header<...>
+Normal text <..................>link<..>.
+<..>
+This is a multiline <.................
+..................................
+.>And so on<..> link.
+<..>
+Start comment: <!--.....................
+....................................
+......--> :this is out of comment.
+<..>
+Check in browser if you want.<..>

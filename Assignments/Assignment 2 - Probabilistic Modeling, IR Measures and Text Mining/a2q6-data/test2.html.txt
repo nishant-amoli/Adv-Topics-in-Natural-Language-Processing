@@ -1,0 +1,3198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" name="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" name="Cache-Control" content="no-cache">
+<link rel="stylesheet" href="test2_files/web_black.css" type="text/css">
+<link rel="stylesheet" href="test2_files/web_defaultprint.css" type="text/css" media="print">
+<title>Dalhousie University: Academic Timetable for 2019/2020 Winter - Computer Science </title>
+<meta http-equiv="Content-Script-Type" name="Default_Script_Language" content="text/javascript">
+<script language="JavaScript" type="text/javascript">
+<!-- Hide JavaScript from older browsers 
+window.onunload = function() {submitcount=0;}
+var submitcount=0;
+function checkSubmit() {
+if (submitcount == 0)
+   {
+   submitcount++;
+   return true;
+   }
+else
+   {
+alert("Your changes have already been submitted.");
+   return false;
+   }
+}
+//  End script hiding -->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- Hide JavaScript from older browsers 
+//  Function to open a window
+function windowOpen(window_url) {
+   helpWin = window.open(window_url,'','toolbar=yes,status=no,scrollbars=yes,menubar=yes,resizable=yes,directories=no,location=no,width=350,height=400');
+   if (document.images) { 
+       if (helpWin) helpWin.focus()
+   }
+}
+//  End script hiding -->
+</script>
+</head>
+<body>
+<div id="headerImage">
+<img src="test2_files/dal_logo_black.png" class="headerImg" title="" name=" DalOnlineHeader2016" border="0" width="162" vspace="0" hspace="46" height="54">
+</div>
+<div class="headerwrapperdiv">
+<div class="pageheaderdiv1">
+<a href="#main_content" onmouseover="window.status='Go to Main Content'; return true" onmouseout="window.status=''; return true" onfocus="window.status='Go to Main Content'; return true" onblur="window.status=''; return true" class="skiplinks">Go to Main Content</a>
+<h1>DAL ONLINE</h1></div><div class="headerlinksdiv">
+</div>
+<table class="plaintable" summary="This table displays Menu Items and Banner Search textbox." width="100%">
+<tbody><tr>
+<td class="pldefault">
+<div class="headerlinksdiv2">
+&nbsp;
+</div>
+</td>
+<td class="pldefault"><p class="rightaligntext" p="">
+<span class="pageheaderlinks">
+<a href="https://dalonline.dal.ca/stuhelp/hyghttbl.html" accesskey="H" onclick="popup = window.open('/stuhelp/hyghttbl.html', 'PopupPage','height=768,width=1024,scrollbars=yes,resizable=yes'); return false" target="_blank" onmouseover="window.status='';  return true" onmouseout="window.status=''; return true" onfocus="window.status='';  return true" onblur="window.status=''; return true" class="submenulinktext2">HELP</a>
+|
+<a href="https://dalonline.dal.ca/PROD/twbkwbis.P_Logout" accesskey="3" class="submenulinktext2">EXIT</a>
+</span>
+</p></td>
+</tr>
+</tbody></table>
+</div>
+<div class="pagetitlediv">
+<table class="plaintable" summary="This table displays title and static header displays." width="100%">
+<tbody><tr>
+<td class="pldefault">
+<h2>Academic Timetable for 2019/2020 Winter - Computer Science </h2>
+</td>
+<td class="pldefault">
+&nbsp;
+</td>
+<td class="pldefault"><p class="rightaligntext" p="">
+</p><div class="staticheaders">
+</div>
+</td>
+</tr>
+<tr>
+<td class="bg3" colspan="3" width="100%"><img src="test2_files/web_transparent.gif" alt="Transparent Image" class="headerImg" title="Transparent Image" name="web_transparent" border="0" width="10" vspace="0" hspace="0" height="3"></td>
+</tr>
+</tbody></table>
+<a name="main_content"></a>
+</div>
+<div class="pagebodydiv">
+<!--  ** END OF twbkwbis.P_OpenDoc **  -->
+<div class="infotextdiv"><table class="infotexttable" summary="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tbody><tr><td class="indefault"><img src="test2_files/web_info.gif" alt="Information" class="headerImg" title="Information" name="Info" border="0" width="28" vspace="0" hspace="0" height="28" align="middle"></td><td class="indefault"><span class="infotext"> <font size="3">
+<b>Please check your schedule regularly before classes begin as changes to
+the dates, time and room locations may occur.</b><br><br>
+Click <img src="test2_files/hyggfor2.gif" alt="Course Description"> for course descriptions. (may not be available for some courses) 
+<p>
+The physical campus is displayed as part of the location of a course. 
+You can view a map of the campus where your class meets by selecting the
+ appropriate campus below:
+</p><p>
+In Truro - 
+<a href="http://campusmaps.dal.ca/?campus=agricultural" target="_blank">Agricultural Campus</a>
+</p></font><p><font size="3">In Halifax -
+<a href="http://campusmaps.dal.ca/?campus=carleton" target="_blank">Carleton Campus,</a>
+<a href="http://campusmaps.dal.ca/?campus=sexton" target="_blank">Sexton Campus,</a>
+<a href="http://campusmaps.dal.ca/?campus=studley" target="_blank">Studley Campus,</a>
+<a href="http://campusmaps.dal.ca/?campus=kings" target="_blank">King's College</a> 
+</font></p></span></td></tr></tbody></table></div><div class="infotextdiv"><table class="infotexttable" summary="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tbody><tr><td class="indefault"><img src="test2_files/hyggnote.gif" alt="NOTE:" class="headerImg" title="NOTE:" name="RedNote" border="0" vspace="0" hspace="0" align="middle"></td><td class="indefault"><span class="infotext"><font size="3">
+Summer term classes in the Faculty of Arts and Social Sciences may be
+cancelled due to  insufficient enrolment.</font></span></td></tr></tbody></table></div><p></p><div class="infotextdiv"><table class="infotexttable" summary="This layout table contains information that may be helpful in understanding the content and functionality of this page.  It could be a brief set of instructions, a description of error messages, or other special information."><tbody><tr><td class="indefault"><img src="test2_files/web_help2.gif" alt="Get help with this page. This link will open a new window." class="headerImg" title="Get help with this page. This link will open a new window." name="web_help" border="0" width="28" vspace="0" hspace="0" height="28" align="middle"></td><td class="indefault"><span class="infotext"><a href="https://www.dal.ca/campus_life/academic-support/advising.html"><font size="3">Need academic advising?</font></a></span></td></tr></tbody></table><p></p></div>
+<table class="plaintable" width="100%">
+<tbody><tr>
+<td class="pldefaultsml" width="25%"><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_district=All"><img src="test2_files/hyggmnu2.gif" alt="Back" class="headerImg" title="Back" name="GeneralBackArrow" border="0" width="16" vspace="0" hspace="0" height="16" align="top"></a><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_district=All">Timetable Contents</a></td>
+<td class="pldefaultsml" width="50%">
+</td><td class="plwhitesml" width="25%"><p class="rightaligntext">Feb 14, 2020 08:51 pm</p></td>
+</tr>
+</tbody></table>
+<table class="dataentrytable" width="100%">
+<tbody><tr>
+<form action="fysktime.P_DisplaySchedule" method="post" name="searchform"></form>
+<td class="dedefault"><p class="centeraligntext"></p>
+<div style="text-align: center;">
+<select name="s_term" size="1" onchange="searchform.submit();">
+<option value="">-Choose a Term-</option>
+<option value="202000">2019/2020 Medicine/Dentistry</option>
+<option value="202010">2019/2020 Fall</option>
+<option value="202010,202020">2019/2020 Fall and Winter</option>
+<option value="202020" selected="selected">2019/2020 Winter</option>
+<option value="202030">2019/2020 Summer</option>
+</select>
+<select name="s_subj" size="1" onchange="searchform.submit();">
+<option value="">-Choose a Subject-</option>
+<option value="ACSC">Actuarial Science</option>
+<option value="AGRI">Agriculture-Agricultural Camp</option>
+<option value="AGRN">Agronomy-Agricultural Campus</option>
+<option value="ANAT">Anatomy</option>
+<option value="ANSC">Animal Sci-Agricultural Campus</option>
+<option value="APSC">Applied Science-Agri Campus</option>
+<option value="AQUA">Aquaculture-Agricultural Camp</option>
+<option value="ARBC">Arabic</option>
+<option value="ARCH">Architecture</option>
+<option value="ASSC">Arts &amp; Social Sciences</option>
+<option value="BIOC">Biochem &amp; Molecular Biology</option>
+<option value="BIOE">Biological Engineering</option>
+<option value="BIOL">Biology</option>
+<option value="BIOA">Biology-Agricultural Campus</option>
+<option value="BMNG">Biomedical Engineering</option>
+<option value="BVSC">Bioveterinary Science</option>
+<option value="BUSS">Business</option>
+<option value="BUSI">Business Admin</option>
+<option value="CANA">Canadian Studies</option>
+<option value="CNLT">Centre for Learning &amp; Teaching</option>
+<option value="CHEE">Chemical Engineering</option>
+<option value="CHEM">Chemistry</option>
+<option value="CHMA">Chemistry-Agricultural Campus</option>
+<option value="CHIN">Chinese</option>
+<option value="CIVL">Civil Engineering</option>
+<option value="CLAS">Classics</option>
+<option value="COMM">Commerce</option>
+<option value="CMSD">Communication Sci &amp; Disorders</option>
+<option value="CMMT">Communications-Agri Campus</option>
+<option value="CH_E">Community Health&amp;Epidemiology</option>
+<option value="CPST">Complementary Studies</option>
+<option value="CSCA">Computer Sci-Agricultural Camp</option>
+<option value="CSCI" selected="selected">Computer Science</option>
+<option value="CTMP">Contemporary Studies</option>
+<option value="CRWR">Creative Writing</option>
+<option value="DEHY">Dental Hygiene</option>
+<option value="DENT">Dentistry</option>
+<option value="DMUT">Diag Med Ultrasound Tech</option>
+<option value="DISM">Disability Management</option>
+<option value="EMSP">Early Modern Studies</option>
+<option value="ERTH">Earth Sciences</option>
+<option value="ECON">Economics</option>
+<option value="ECOA">Economics-Agricultural Campus</option>
+<option value="ECED">Electrical &amp; Computer Engineer</option>
+<option value="ECMM">Electronic Commerce</option>
+<option value="ENGI">Engineering</option>
+<option value="INWK">Engineering Internetworking</option>
+<option value="ENGM">Engineering Mathematics</option>
+<option value="ENGN">Engineering-Agri Campus</option>
+<option value="ENGL">English</option>
+<option value="ENSL">English Language (CE)</option>
+<option value="EGLA">English-Agricultural Campus</option>
+<option value="ENVA">Environ Sciences-Agri Campus</option>
+<option value="ENVE">Environmental Engineering</option>
+<option value="ENVS">Environmental Science</option>
+<option value="ENVI">Environmental Studies</option>
+<option value="EURO">European Studies</option>
+<option value="FILM">Film Studies</option>
+<option value="FIGS">First Year Interest Groups-Sci</option>
+<option value="FOSC">Food Science</option>
+<option value="FOOD">Food Science-Agricultural Camp</option>
+<option value="FREN">French</option>
+<option value="FRNA">French-Agricultural Campus</option>
+<option value="GWST">Gender &amp; Women's Studies</option>
+<option value="GENE">Genetics-Agricultural Campus</option>
+<option value="GEOG">Geography</option>
+<option value="GEOA">Geography-Agricultural Campus</option>
+<option value="GELA">Geology-Agricultural Campus</option>
+<option value="GERM">German</option>
+<option value="HESA">Health Administration</option>
+<option value="HINF">Health Informatics</option>
+<option value="HLTH">Health Professions</option>
+<option value="HPRO">Health Promotion</option>
+<option value="HSCE">Health Sciences Education</option>
+<option value="HAHP">Health and Human Performance</option>
+<option value="HSTC">Hist of Science &amp; Technology</option>
+<option value="HIST">History</option>
+<option value="HISA">History-Agricultural Campus</option>
+<option value="HORT">Horticulture-Agricultural Camp</option>
+<option value="INDG">Indigenous Studies</option>
+<option value="IENG">Industrial Engineering</option>
+<option value="INFO">Information Management</option>
+<option value="INFB">Int'l Food Business-Agri Camp</option>
+<option value="INTE">Interdisc Studies (Graduate)</option>
+<option value="INTD">International Develop Studies</option>
+<option value="IPHE">Interprofessional Health Educ</option>
+<option value="IAGR">Intl Development-Agri Camp</option>
+<option value="ITAL">Italian</option>
+<option value="JOUR">Journalism</option>
+<option value="KINE">Kinesiology</option>
+<option value="KING">King's Foundation Year Program</option>
+<option value="LARC">Landscape Architecture</option>
+<option value="LAWS">Law</option>
+<option value="LJSO">Law, Justice, and Society</option>
+<option value="LEIS">Leisure Studies</option>
+<option value="MRIT">Magnetic Resonance Imag Tech</option>
+<option value="MGMT">Management</option>
+<option value="MGTA">Management-Agricultural Campus</option>
+<option value="MARA">Marine Affairs</option>
+<option value="MARI">Marine Biology</option>
+<option value="MATL">Materials Engineering</option>
+<option value="MATH">Mathematics</option>
+<option value="MTHA">Mathematics-Agricultural Camp</option>
+<option value="MECH">Mechanical Engineering</option>
+<option value="MDLT">Medical Lab Technology</option>
+<option value="MEDP">Medical Physics</option>
+<option value="MEDR">Medical Research</option>
+<option value="MICI">Microbiology &amp; Immunology</option>
+<option value="MCRA">Microbiology-Agricultural Camp</option>
+<option value="MINE">Mineral Resource Engineering</option>
+<option value="MUSC">Music</option>
+<option value="NESC">Neuroscience</option>
+<option value="NUMT">Nuclear Medicine Technology</option>
+<option value="NURS">Nursing</option>
+<option value="NUTR">Nutrition-Agricultural Campus</option>
+<option value="OCCU">Occupational Therapy</option>
+<option value="OCEA">Oceanography</option>
+<option value="ORAL">Oral Surgery</option>
+<option value="PHDP">PHD Program</option>
+<option value="PATH">Pathology</option>
+<option value="PERF">Performance Studies</option>
+<option value="PERI">Periodontics</option>
+<option value="PHAC">Pharmacology</option>
+<option value="PHAR">Pharmacy</option>
+<option value="PHIL">Philosophy</option>
+<option value="PHYC">Physics &amp; Atmospheric Science</option>
+<option value="PHYS">Physics-Agricultural Campus</option>
+<option value="PHYL">Physiology</option>
+<option value="PHYT">Physiotherapy</option>
+<option value="PLAN">Planning</option>
+<option value="PLSC">Plant Science-Agri Campus</option>
+<option value="POLI">Political Science</option>
+<option value="POLS">Political Science-Agri Campus</option>
+<option value="PGPH">Post-Graduate Pharmacy</option>
+<option value="PEAS">Process Engineering &amp; App Scie</option>
+<option value="PROS">Prosthodontics</option>
+<option value="PSYR">Psychiatry</option>
+<option value="PSYO">Psychology</option>
+<option value="PSYC">Psychology-Agricultural Campus</option>
+<option value="PUAD">Public Administration</option>
+<option value="RADT">Radiological Technology</option>
+<option value="REGN">Registration Course-Graduate</option>
+<option value="RELS">Religious Studies</option>
+<option value="RESM">Res Methods/Proj Sem-Agri Camp</option>
+<option value="RSPT">Respiratory Therapy</option>
+<option value="RUSN">Russian Studies</option>
+<option value="SCIE">Science</option>
+<option value="SLWK">Social Work</option>
+<option value="SOSA">Sociol &amp; Social Anthropology</option>
+<option value="SOCI">Sociology-Agricultural Campus</option>
+<option value="SOIL">Soils-Agricultural Campus</option>
+<option value="SPAN">Spanish &amp; Latin American Stud</option>
+<option value="SPNA">Spanish-Agricultural Campus</option>
+<option value="SPEC">Special Topics-Agri Campus</option>
+<option value="STAT">Statistics</option>
+<option value="STAA">Statistics-Agricultural Campus</option>
+<option value="SUST">Sustainability</option>
+<option value="THEA">Theatre</option>
+<option value="TYPR">Transition Year Program</option>
+<option value="VTEC">Veterinary Tech-Agri Campus</option>
+<option value="VISC">Vision Science</option>
+</select>
+<select name="s_district" size="1" onchange="searchform.submit();">
+<option value="">-Choose a Location-</option>
+<option value="All" selected="selected">All</option>
+<option value="100">Halifax</option>
+<option value="200">Truro</option>
+<option value="300">Distance</option>
+<option value="400">Other</option>
+<option value="100D">Halifax and Distance</option>
+<option value="200D">Truro and Distance</option>
+<option value="400D">Other and Distance</option>
+</select>
+</div>
+</td>
+</tr>
+</tbody></table>
+<table class="plaintable" width="100%">
+<tbody><tr>
+<td colspan="2" class="pldefaultsml" width="25%">&nbsp;</td>
+<td class="pldefaultsml" width="50%">
+<center>Page
+ <b>1</b>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=21&amp;s_district=All"> 2</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=41&amp;s_district=All"> 3</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=61&amp;s_district=All"> 4</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=81&amp;s_district=All"> 5</a>
+</center>
+</td>
+<td colspan="2" class="pldefaultsml" width="25%"><p class="rightaligntext"><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=21&amp;s_district=All">next 20 CSCI classes &gt;&gt;</a></p></td>
+</tr>
+</tbody></table>
+<table class="dataentrytable" width="100%">
+<tbody><tr>
+<td rowspan="2" class="detitle" scope="colgroup"><a href="javascript:windowOpen('/stuhelp/hyghttbl.html')">Notes</a></td>
+<td rowspan="2" class="detitle" scope="colgroup"><b>CRN</b></td>
+<td rowspan="2" colspan="2" class="detitle" scope="colgroup">Section</td>
+<td rowspan="2" class="detitle" scope="colgroup">Cr<br>Hrs</td>
+<td rowspan="2" class="detitle" scope="colgroup">Link</td>
+<td colspan="5" class="detitle" scope="colgroup"><p class="centeraligntext">Days</p></td>
+<td rowspan="2" class="detitle" scope="colgroup">Times</td>
+<td rowspan="2" class="detitle" scope="colgroup" nowrap="nowrap">Location(s)</td>
+<td colspan="5" class="detitle" scope="colgroup"><p class="centeraligntext">Enrolment Info</p></td>
+<td colspan="2" class="detitle" scope="colgroup"><p class="centeraligntext">XList Info</p></td>
+<td rowspan="2" class="detitle" scope="colgroup" nowrap="nowrap">Instructor(s)</td>
+<td colspan="2" class="detitle" scope="colgroup"><p class="centeraligntext">Tuition</p></td>
+</tr>
+<tr>
+<td class="delabelsml">Mo</td>
+<td class="delabelsml">Tu</td>
+<td class="delabelsml">We</td>
+<td class="delabelsml">Th</td>
+<td class="delabelsml">Fr</td>
+<td class="delabelsml"><p class="rightaligntext">Max</p></td>
+<td class="delabelsml"><p class="rightaligntext">Cur</p></td>
+<td class="delabelsml"><p class="rightaligntext">Avail</p></td>
+<td class="delabelsml"><p class="rightaligntext">WtLst</p></td>
+<td class="delabelsml" nowrap="nowrap"><p class="rightaligntext">%Full</p></td>
+<td class="delabelsml"><p class="rightaligntext">Max</p></td>
+<td class="delabelsml"><p class="rightaligntext">Cur</p></td>
+<td class="delabelsml">Code</td>
+<td class="delabelsml">BHrs</td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1105 Intro to Computer Programming</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1105" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20639</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C236</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">OPEN (55)<br> CSCI  (45)<br> APCS  (10)</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">54<br>51<br>8</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">1<br>-6<br>2</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0<br>&nbsp;<br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Ai He H. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+Students should not register for CSCI 1105
+and CSCI 1110 in the same term. to determine which one to
+register for, please review the information at:
+dal.ca/faculty/computerscience/
+undergraduate_programs/first_year
+Students registering for this course must provide their own
+laptop for the lab.
+</td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20640</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">59</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">-4</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">
+Ai He H. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20641</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">54</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  98.2%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">
+Ai He H. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1107 Social Computing</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1107" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20646','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20646</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley KILLAM LIBRARY 2600</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">OPEN (5)<br> CSCI  (60)<br> APCS  (10)</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">5<br>51<br>4</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0<br>9<br>6</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;<br>&nbsp;<br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  80.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Bhatia G. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+Students registering for this course must
+provide their own laptop for the lecture, lab and tutorial.
+</td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20647</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley KILLAM LIBRARY 2600</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">75</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">60</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">15</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  80.0%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20648</b></td>
+<td class="dettt">T01</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley KILLAM LIBRARY 2600</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">75</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">60</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">15</p></td>
+<td class="dettt" nowrap="nowrap">&nbsp;</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  80.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1108 Experimental Robotics</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1108" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20649','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20649</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 127</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">88</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">36</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">52</p></td>
+<td class="dettl" nowrap="nowrap">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  40.9%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Kane M. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+ Students registering for course must provide their own
+laptop for the lab.
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20650','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20650</b></td>
+<td class="dettl">02</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1605-1725</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley CHEMISTRY 125</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">OPEN (5)<br> CSCI  (65)<br> APCS  (18)</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">5<br>60<br>12</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0<br>5<br>6</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;<br>&nbsp;<br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  87.5%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Trappenberg T. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20651</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">34</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">9</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  73.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">58</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">43</p></td>
+
+<td class="dettb">
+Kane M. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20652</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>F</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955<br><br><br>1735-1855</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 06-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">58</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">8</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  86.2%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">
+Kane M. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20653</b></td>
+<td class="dettb">B03</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">18</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">6</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  75.0%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">58</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">43</p></td>
+
+<td class="dettb">
+Kane M. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20654</b></td>
+<td class="dettb">B04</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">17</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">18</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  48.6%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">61</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">20</p></td>
+
+<td class="dettb">
+Kane M. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20655</b></td>
+<td class="dettb">B05</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">26</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  11.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">61</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">20</p></td>
+
+<td class="dettb">
+Kane M. 
+</td><td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1109 Practical Data Science</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1109" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=24141','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>24141</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 127</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">115</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">109</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">6</p></td>
+<td class="dettl" nowrap="nowrap">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.8%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Marchand Y. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+ Students registering for this course must provide their own
+laptop for the lab.
+</td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24142</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">56</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">52</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">4</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.9%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24143</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0955<br><br><br>0835-0955</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">59</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">57</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.6%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1110 Intro to Computer Science</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1110" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20656','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20656</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley CHEMISTRY 125</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">150</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">147</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  98.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Siegel A. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+Students should not register for CSCI 1105 and CSCI 1110
+in the same term. To determine which one to register for,
+please review the information at:
+dal.ca/faculty/computerscience/
+undergraduate_programs/first_year
+Students registering for this course must provide their own
+laptop for the lab.
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20657</b></td>
+<td class="dettl">02</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1135-1255</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton DENTISTRY 3156</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">OPEN (60)<br> APCS  (40)<br> CSCI  (50)</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">44<br>28<br>49</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">16<br>12<br>1</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0<br>&nbsp;<br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  80.7%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+MacKay B. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20658','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20658</b></td>
+<td class="dettl">03</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton TUPPER BLDG THTR B</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">150</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">84</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">66</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  56.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Franz J. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20659</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">33</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.3%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20660</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">34</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  97.1%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20661</b></td>
+<td class="dettb">B03</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">45</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">10</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  81.8%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20662</b></td>
+<td class="dettb">B04</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">30</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  54.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20663</b></td>
+<td class="dettb">B05</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">31</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">4</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  88.6%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20664</b></td>
+<td class="dettb">B06</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">26</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">9</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  74.3%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20665</b></td>
+<td class="dettb">B07</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125<br><br><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">41</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">14</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  74.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20666</b></td>
+<td class="dettb">B08</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425<br><br><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">37</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">18</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  67.3%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20667</b></td>
+<td class="dettb">B09</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1005-1125<br><br><br>1005-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">12</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  65.7%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20668</b></td>
+<td class="dettb">B10</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1135-1255<br><br><br>1135-1255</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">52</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1120 Intro to Computer Systems</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1120" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20669','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20669</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1525<br><br><br>1435-1525</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley KENNETH C ROWE MANAG 1028<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley KENNETH C ROWE MANAG 1028</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">265</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">249</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">16</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Malloch J. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20670</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>0835-0925</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">132</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">121</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">11</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  91.7%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20671</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1035-1125</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">133</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">128</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">5</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.2%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1170 Intro to Web Design &amp; Devel.</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1170" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20672','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20672</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1535-1725</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">125</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">113</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">12</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  90.4%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Sampangi R. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+Students registering for this course must provide their own
+laptop for the lecture and lab.
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20673','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20673</b></td>
+<td class="dettl">02</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>0935-1125</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton DENTISTRY 3156</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">125</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">119</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">6</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  95.2%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Mosquera M. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20674</b></td>
+<td class="dettt">T01</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0835-1025<br><br><br>0835-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 127<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 127</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">120</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">116</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">4</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.7%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20675</b></td>
+<td class="dettt">T02</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1435-1625</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton DENTISTRY 3156</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">130</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">116</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">14</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  89.2%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 1801 Case Studies in Comp &amp; Society</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+1801" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20676','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20676</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1605-1725</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS AUD-1</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">250</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">173</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">77</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  69.2%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Burke M. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+If registering for lecture section 01, students must
+register in one of the following tutorial sections: T01,
+T02, T03, T09, T13, T14, T16 or T17.
+</td>
+</tr>
+<tr>
+<td class="dettl"><b><a href="javascript:windowOpen('fysktime.P_FindRestrictions?s_term=202020&amp;s_crn=20677','xx','width=600')">R</a></b>&nbsp;</td>
+<td class="dettl"><b>20677</b></td>
+<td class="dettl">02</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1135-1255</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS AUD-1</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">250</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">241</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">9</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.4%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Wright A. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl"><b>NOTE</b></td>
+<td colspan="22" class="dettl">
+If registering for Lecture section 02, students must
+register in one of the following tutorial sections: T04,
+T05, T06, T07, T11, T12, T15, T18, T19 or T20.
+</td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20678</b></td>
+<td class="dettt">T01</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1335-1425</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley SIR JAMES DUNN 101</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20679</b></td>
+<td class="dettt">T02</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4258</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20680</b></td>
+<td class="dettt">T03</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4258</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">22</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  88.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20681</b></td>
+<td class="dettt">T04</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1035-1125</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P5208</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20682</b></td>
+<td class="dettt">T05</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4258</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20683</b></td>
+<td class="dettt">T06</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C334</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20684</b></td>
+<td class="dettt">T07</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS 1102</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20686</b></td>
+<td class="dettt">T09</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1035-1125</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS 2184</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20688</b></td>
+<td class="dettt">T11</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS 2118</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20689</b></td>
+<td class="dettt">T12</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1535-1625</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C202</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">26</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">-1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20690</b></td>
+<td class="dettt">T13</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1235-1325</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS 2162</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20691</b></td>
+<td class="dettt">T14</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley HENRY HICKS ACADEMIC 217</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20692</b></td>
+<td class="dettt">T15</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1335-1425</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley SIR JAMES DUNN 304</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20693</b></td>
+<td class="dettt">T16</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C334</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">8</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">17</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  32.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20694</b></td>
+<td class="dettt">T17</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1035-1125</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4263</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20695</b></td>
+<td class="dettt">T18</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1435-1525</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4258</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">23</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  92.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20696</b></td>
+<td class="dettt">T19</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1635-1725</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley SIR JAMES DUNN 304</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20697</b></td>
+<td class="dettt">T20</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L1</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>0935-1025</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-PSYCHOLOGY P4263</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">25</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">
+Wright A. 
+</td><td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2100 Comm Skills: Oral/Written</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2100" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20698</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>0935-1025<br><br><br>0935-1025</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C242<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley LSC-COMMON AREA C242</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">125</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">103</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">22</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  82.4%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Taylor S. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20699</b></td>
+<td class="dettl">02</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1335-1425<br><br><br>1335-1425</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton DENTISTRY 3156<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Carleton DENTISTRY 3156</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">125</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">125</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Taylor S. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2110 Data Structures &amp; Algorithms</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2110" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20700</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1605-1725</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS AUD-1</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">150</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">94</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">56</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  62.7%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Brodsky A. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20701</b></td>
+<td class="dettt">T01</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">150</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">94</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">56</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  62.7%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2112 Discrete Structures I</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2112" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+<br><span style="font-size:80%">Course equivalent with 
+<a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_subj=MATH&amp;s_numb=2112&amp;s_district=All">MATH 2112</a>
+</span>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20702</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1435-1525<br><br><br>1435-1525</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley SIR JAMES DUNN 117<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley SIR JAMES DUNN 117</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">150</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">81</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">69</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  54.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">189</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">118</p></td>
+
+<td class="dettl">
+Kalyaniwalla N. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2113 Discrete Structures II</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2113" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+<br><span style="font-size:80%">Course equivalent with 
+<a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_subj=MATH&amp;s_numb=2113&amp;s_district=All">MATH 2113</a>
+</span>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20703</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1235-1325<br><br><br>1235-1325</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C236<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley LSC-COMMON AREA C236</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">17</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">33</p></td>
+<td class="dettl" nowrap="nowrap">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  34.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">80</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+
+<td class="dettl">
+Ross N. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2114 Mathematical App. in Computing</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2114" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20704</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C244</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">18</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">32</p></td>
+<td class="dettl" nowrap="nowrap">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  36.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Arnold D. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2122 Systems Programming</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2122" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>24106</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap">1135-1255</td>
+<td class="dettl" nowrap="nowrap">Carleton TUPPER BLDG THTR B</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">170</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">143</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">27</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  84.1%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Kalyaniwalla N. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24107</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">46</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">9</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  83.6%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24108</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">41</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">14</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  74.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24109</b></td>
+<td class="dettb">B03</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">30</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">28</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  93.3%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24110</b></td>
+<td class="dettb">B04</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">30</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">28</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  93.3%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2134 Software Development</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2134" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>24113</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap">1435-1555</td>
+<td class="dettl" nowrap="nowrap">Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">200</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">200</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Brodsky A. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24114</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap">1305-1425</td>
+<td class="dettb" nowrap="nowrap">Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">-1</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24115</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap">0835-0955</td>
+<td class="dettb" nowrap="nowrap">Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24116</b></td>
+<td class="dettb">B03</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap">1305-1425</td>
+<td class="dettb" nowrap="nowrap">Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">38</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">-3</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>24117</b></td>
+<td class="dettb">B04</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">T</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap">0835-0955</td>
+<td class="dettb" nowrap="nowrap">Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">52</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2141 Intro to Database Systems</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2141" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20716</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>0835-0955</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MCCAIN ARTS&amp;SS AUD-1</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">200</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">200</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Aziz K. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20717</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 134</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">54</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  98.2%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20718</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1435-1525</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">52</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">3</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  94.5%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20719</b></td>
+<td class="dettb">B03</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1535-1625</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">55</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">53</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.4%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20720</b></td>
+<td class="dettb">B04</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1135-1225</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">41</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">-6</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2170 Intro to Server Side Scripting</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2170" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20721</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1135-1355<br><br><br>1135-1355</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton BURBIDGE 318<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 127</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">90</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">66</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  73.3%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Sampangi R. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettt">&nbsp;</td>
+<td class="dettt"><b>20722</b></td>
+<td class="dettt">T01</td>
+<td class="dettt">Tut</td>
+<td class="dettt">0</td>
+<td class="dettt">L0</td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>M</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="centeraligntext"><br>F<br><br><br>&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><br>1435-1625<br><br><br>1435-1625</td>
+<td class="dettt" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-APR-2020 - 06-APR-2020 ***</b><br>Carleton COLLABORATIVE HEALTH EDUC BLDG C170</td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">90</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">66</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">24</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="#999900">  73.3%
+</font>
+</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettt" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettt">Staff</td>
+<td class="dettt">T410</td>
+<td class="dettt"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2201 Introduction to Info Security</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2201" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20723</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>R</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley HENRY HICKS ACADEMIC 212</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">85</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">84</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">1</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  98.8%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Haque I. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20724</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley MONA CAMPBELL BUILDING 1201</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">48</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  96.0%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20725</b></td>
+<td class="dettb">B02</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1435-1555</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley COMPUTER SCIENCE 143</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">36</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">-1</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">WLIST</font>
+</p></td><td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2202 Comp. Modeling for Scientists</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2202" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20726</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>T</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1005-1125</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley LSC-COMMON AREA C244</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">15</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  30.0%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Kalyaniwalla N. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+<tr>
+<td class="dettb">&nbsp;</td>
+<td class="dettb"><b>20727</b></td>
+<td class="dettb">B01</td>
+<td class="dettb">Lab</td>
+<td class="dettb">0</td>
+<td class="dettb">&nbsp;</td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>M</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><br>1305-1425</td>
+<td class="dettb" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Studley SIR JAMES DUNN 301A</td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">50</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">15</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">35</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">0</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="green">  30.0%
+</font>
+</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettb" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettb">Staff</td>
+<td class="dettb">T410</td>
+<td class="dettb"><p class="rightaligntext">0</p></td>
+</tr>
+<tr valign="middle">
+<td colspan="15" class="detthdr">
+<b>CSCI 2203 Data Science for Everyone</b> <a href="http://academiccalendar.dal.ca/Catalog/ViewCatalog.aspx?pageid=viewcatalog&amp;entitytype=CID&amp;entitycode=CSCI+2203" target="_blank"><img src="test2_files/hyggfor2.gif" alt="Course Description" class="headerImg" title="Course Description" name="ForwardArrow" border="0" vspace="0" hspace="0" align="top"></a>
+</td>
+<td colspan="8" class="dewhitesml">
+<span style="color=#000099">WINTER
+ (<b>1</b>)
+: 06-JAN-2020 - 06-APR-2020</span>
+</td>
+</tr>
+<tr>
+<td class="dettl">&nbsp;</td>
+<td class="dettl"><b>20728</b></td>
+<td class="dettl">01</td>
+<td class="dettl">Lec</td>
+<td class="dettl">3</td>
+<td class="dettl">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>W</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="centeraligntext"><br>&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><br>1135-1425</td>
+<td class="dettl" nowrap="nowrap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>*** 06-JAN-2020 - 03-APR-2020 ***</b><br>Carleton TUPPER BLDG 3H01</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">75</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">73</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">2</p></td>
+<td class="dettl" nowrap="nowrap">&nbsp;</td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext" p="">
+<font color="red">  97.3%
+</font>
+</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+<td class="dettl" nowrap="nowrap"><p class="rightaligntext">&nbsp;</p></td>
+
+<td class="dettl">
+Marchand Y. 
+</td><td class="dettl">T410</td>
+<td class="dettl"><p class="rightaligntext">3</p></td>
+</tr>
+</tbody></table>
+<table class="plaintable" width="100%">
+<tbody><tr>
+<td colspan="2" class="pldefaultsml" width="25%">&nbsp;</td>
+<td class="pldefaultsml" width="50%">
+<center>Page
+ <b>1</b>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=21&amp;s_district=All"> 2</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=41&amp;s_district=All"> 3</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=61&amp;s_district=All"> 4</a>
+ <a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=81&amp;s_district=All"> 5</a>
+</center>
+</td>
+<td colspan="2" class="pldefaultsml" width="25%"><p class="rightaligntext"><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_crn=&amp;s_subj=CSCI&amp;s_numb=&amp;n=21&amp;s_district=All">next 20 CSCI classes &gt;&gt;</a></p></td>
+</tr>
+</tbody></table>
+<table class="plaintable" cellspacing="0" cellpadding="1" width="100%">
+<tbody><tr valign="top">
+<td class="pldefaultsml"><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_district=All"><img src="test2_files/hyggmnu2.gif" alt="Back" class="headerImg" title="Back" name="GeneralBackArrow" border="0" width="16" vspace="0" hspace="0" height="16" align="top"></a><a href="https://dalonline.dal.ca/PROD/fysktime.P_DisplaySchedule?s_term=202020&amp;s_district=All">Timetable Contents</a></td>
+<td class="pldefaultsml"><p class="rightaligntext">Feb 14, 2020 08:51 pm</p></td>
+</tr>
+</tbody></table>
+
+<!--  ** START OF twbkwbis.P_CloseDoc **  -->
+<table class="plaintable" summary="This is table displays line separator at end of the page." cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td class="bgtabon" colspan="2" width="100%"><img src="test2_files/web_transparent.gif" alt="Transparent Image" class="headerImg" title="Transparent Image" name="web_transparent" border="0" width="10" vspace="0" hspace="0" height="3"></td></tr></tbody></table>
+<a href="#top" onmouseover="window.status='Skip to top of page'; return true" onmouseout="window.status=''; return true" onfocus="window.status='Skip to top of page'; return true" onblur="window.status=''; return true" class="skiplinks">Skip to top of page</a>
+</div>
+<div class="footerbeforediv">
+
+</div>
+<div class="footerlinksdiv">
+<span class="pagefooterlinks">
+<map name="Dalhousie_University:_Academic_Timetable_Links_F" title="Dalhousie University: Academic Timetable Links">
+<p>
+<a href="#skip_Dalhousie_University:_Academic_Timetable_Links_F" onmouseover="window.status='Skip Dalhousie University: Academic Timetable Links'; return true" onmouseout="window.status=''; return true" onfocus="window.status='Skip Dalhousie University: Academic Timetable Links'; return true" onblur="window.status=''; return true" class="skiplinks">Skip Dalhousie University: Academic Timetable Links</a>
+</p><p>[ <a href="https://dalonline.dal.ca/home.html">Dal Online Main Menu (Login)</a>
+ | <a href="http://www.dal.ca/">Dalhousie Home Page</a>
+ ]
+
+
+<a name="skip_Dalhousie_University:_Academic_Timetable_Links_F"></a>
+</p></map></span></div>
+<div class="footerafterdiv">
+
+</div>
+<div class="globalafterdiv">
+
+</div>
+<div class="globalfooterdiv">
+
+</div>
+<div class="pagefooterdiv">
+<span class="releasetext">Release: 5.4.D2</span>
+</div>
+<div class="poweredbydiv">
+</div>
+<div class="div1"></div>
+<div class="div2"></div>
+<div class="div3"></div>
+<div class="div4"></div>
+<div class="div5"></div>
+<div class="div6"></div>
+<div class="banner_copyright"> <br><h5>© 2020 Ellucian Company L.P. and its affiliates.<br></h5></div>
+
+
+</body></html>

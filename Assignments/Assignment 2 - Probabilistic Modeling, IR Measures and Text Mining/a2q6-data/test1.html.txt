@@ -1,0 +1,13 @@
+<html><body>
+<h1>This is a header</h1>
+Normal text <a href="some_link">link</a>.
+<br>
+This is a multiline <a target="_blank"
+  href="this_should_all_be hidden"
+ >And so on</a> link.
+<br>
+Start comment: <!-- >this is all<inside>
+comment we can use > and < and so on
+until --> :this is out of comment.
+<br>
+Check in browser if you want.<br>
