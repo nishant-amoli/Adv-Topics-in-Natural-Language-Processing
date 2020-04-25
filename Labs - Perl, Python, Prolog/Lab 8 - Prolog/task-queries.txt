@@ -1,4 +1,0 @@
-is_child(ann,mary).
-is_grandchild(ann,mary).
-is_grandchild(X,mary).
-is_grandchild(tom,Y).
