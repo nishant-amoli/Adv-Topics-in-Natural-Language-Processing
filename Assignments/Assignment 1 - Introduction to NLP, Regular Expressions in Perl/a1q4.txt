@@ -1,0 +1,19 @@
+Question 4)
+
+a) Three words accepted by the given NFA are: "banana", "bana" and "ana". The NFA accepts all the strings that start with either "a","n" or "b" and ends with "ana". It also accepts just "ana".
+
+b) DFA:
+
+State       |    a  	 |    b     |    n    	 |
+------------+------------+----------+------------+
+S : q0      |    q1q3    |    q1    |    q1q2    |
+------------+------------+----------+------------+
+    q1q2    |    q1q3    |    q1    |    q1q2    |
+------------+------------+----------+------------+
+    q1q3    |    q1    	 |    q1    |    q1q2q4	 |
+------------+------------+----------+------------+
+    q1      |    q1      |    q1    |    q1q2    |
+------------+------------+----------+------------+
+   q1q2q4   |    q1q3q5  |    q1    |    q1q2    |
+------------+------------+----------+------------+
+F : q1q3q5  |    q1      |    q1    |    q1q2q4	 |

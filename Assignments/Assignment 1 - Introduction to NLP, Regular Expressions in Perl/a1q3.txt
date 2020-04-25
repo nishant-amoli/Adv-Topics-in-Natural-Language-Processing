@@ -1,0 +1,32 @@
+Question 3)
+
+a) There are seven different levels of Natural Language Processing.
+1 - Phonetics: This level of NLP deals with the physical aspects of sounds such as analysing the sound  signals.
+
+2 - Phonology: This level of NLP is concerned with analysing how the sounds are associated with a language. Unlike phonetics, phonology is language specific. The relationship between phonetics and phonology can be defined as, [1] phonology is the grammar that is constructed by the pattern of phonetics.
+
+3 - Morphology: Morphology is about tokenizing the language to the smallest possible form, that is a word. Every word in a language has some specific meaning.
+ 
+4 - Syntax: For every language, there is a set of rules that define the structure formation of a sentence. This set of rules is called the grammar of the language. [2] This level of NLP is concerned with the grammar and formation of sentences.
+
+5 - Semantics: In this level of NLP, interpretation is done to derive the literal meaning of a sentence.In a language, it might happen that there are multiple meanings of one word because of which the sentence can have more than one meaning. In such a scenario, the ambiguity will be at a semantic level.
+ 
+6 - Pragmatics: Many times, in a language, the literal meaning of a sentence is not exactly the intended meaning. This level of NLP deals with practical meaning of a sentence rather than abstract.
+
+7 - Discourse:  Sometimes a sentence itself doesn’t give all the information, it is just providing the information about another sentence. For example, in the following sentence:
+“He will continue doing it.”
+In this sentence, “he” is a pronoun that is referring to the noun of another sentence and “it” is referring to a particular action that is being done by the noun. This level of NLP deals with such sentences.
+
+
+b)The boss told her secretary that she should not take too much stress and meditate. The two different interpretations of this sentence are:
+1 - The boss told the secretary that the secretary is taking too much stress and should meditate.
+2 - The boss is taking too much stress and should meditate. This is what she told her secretary.
+
+
+c) In my sentence for part b), the ambiguity is in the syntactic level as the sentence is being ambiguous because of its structure, and not because of any word that has multiple meanings.
+
+References:
+
+Phonetics vs. Phonology. [Online]. Available: http://www.phon.ox.ac.uk/jcoleman/PHONOLOGY1.htm. [Accessed: 01-Feb-2020].
+
+“Home,” Natural Language Analysis. [Online]. Available: http://www.contrib.andrew.cmu.edu/~dyafei/NLP.html. [Accessed: 01-Feb-2020].
